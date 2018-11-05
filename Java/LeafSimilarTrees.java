@@ -1,6 +1,6 @@
 /*
 Kevin Nguyen
-Basic program (Java) that given two trees, check if the leaves are in sequential order and they're identical.
+Basic program (Java) that when given two trees, check if the leaves are in sequential order and they're identical.
 
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
